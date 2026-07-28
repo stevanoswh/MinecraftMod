@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="firstmod"
+version="1.0.0"
+displayName="Explosive Pickaxe"
+authors="Boss"
+description='''
+Makes the normal Minecraft diamond pickaxe create an explosion.
+'''
+
+[[dependencies.firstmod]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.firstmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
