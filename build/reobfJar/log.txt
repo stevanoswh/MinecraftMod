@@ -143,6 +143,6 @@ Writing Output: C:\Users\steva\Downloads\forge-1.20.1-47.4.10-mdk\build\reobfJar
   META-INF/mods.toml
   com/
   com/superpickaxe/
-  com/superpickaxe/FireSword$ForgeEvents.class
-  com/superpickaxe/FireSword.class
+  com/superpickaxe/GrappleHook$ForgeEvents.class
+  com/superpickaxe/GrappleHook.class
   pack.mcmeta
