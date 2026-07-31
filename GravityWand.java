@@ -9,7 +9,7 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 
 @Mod(GravityWand.MOD_ID)
-public class FirstMod {
+public class GravityWand {
 
     public static final String MOD_ID = "firstmod";
 
